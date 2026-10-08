@@ -2,12 +2,12 @@
 title: "我的第一篇技術文章！從零自建部落格挑戰成功"
 author: Xiao Mao
 pubDatetime: 2026-10-05T15:33:05.569Z
-slug: how-to-update-dependencies
+slug: my-first-blog-post-2026
 featured: false
 draft: false
 tags:
   - FAQ
-description: How to update project dependencies and AstroPaper template.
+description: 這是我用 Astro 自建部落格的第一篇技術隨筆！
 ---
 
 # 🚀 Hello World!
