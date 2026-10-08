@@ -1,7 +1,7 @@
 ---
 title: "我的第一篇技術文章！從零自建部落格挑戰成功"
 author: Xiao Mao
-pubDatetime: 2026-10-08T15:33:05.569Z
+pubDatetime: 2026-10-05T15:33:05.569Z
 slug: how-to-update-dependencies
 featured: false
 draft: false
