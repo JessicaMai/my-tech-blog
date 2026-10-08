@@ -1,4 +1,3 @@
-markdown
 ---
 title: "我的第一篇技術文章！從零自建部落格挑戰成功"
 description: "這是我用 Astro/Hugo + Vercel 快速搭建的個人技術部落格，寫下第一篇測試紀錄。"
