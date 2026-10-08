@@ -1,9 +1,13 @@
 ---
 title: "我的第一篇技術文章！從零自建部落格挑戰成功"
-description: "這是我用 Astro/Hugo + Vercel 快速搭建的個人技術部落格，寫下第一篇測試紀錄。"
-pubDate: 2026-10-08
-date: 2026-10-08
-tags: ["測試", "隨筆"]
+author: Xiao Mao
+pubDatetime: 2026-10-08T15:33:05.569Z
+slug: how-to-update-dependencies
+featured: false
+draft: false
+tags:
+  - FAQ
+description: How to update project dependencies and AstroPaper template.
 ---
 
 # 🚀 Hello World!
