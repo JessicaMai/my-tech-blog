@@ -13,7 +13,7 @@ description: "A bit about me and this blog."
 
 期望讓讀者以口語化的方式了解各篇章的內容, 也可以讓面試官/面試者來搜尋可能的面試問題
 
-會盡可能讓問題之間有所連貫, 讓邏輯連貫也方便記憶
+會盡可能讓問題之間有所連貫, 方便讀者了解與記憶
 
 AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
 
