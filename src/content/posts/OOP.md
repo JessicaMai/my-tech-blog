@@ -1,7 +1,7 @@
 ---
 title: "重讀大話設計模式 - 物件導向基礎"
 author: Xiao Mao
-pubDatetime: 2026-10-28T15:33:05.569Z
+pubDatetime: 2026-10-28T05:33:05.569Z
 slug: design-pattern-oop-2026
 featured: false
 draft: false
